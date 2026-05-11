@@ -1,37 +1,38 @@
-# MiApp
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/526f7992-9a99-4d65-bbe4-11edd34bebe1" /># MiApp
 Repositorio para el borrador del proyecto de Desarrollo de Apps Móviles
 
 
 # Proyecto de Desarrollo de Apps Móviles
 
 ## 📌 Descripción del proyecto
-La aplicación propuesta es un **gestor de hábitos saludables**. Su propósito no es la estética, sino la lógica interna: permitir que el usuario registre, organice y evalúe rutinas diarias (ejercicio, alimentación, estudio). Como se afirma, “garantizar la calidad y funcionalidad de los programas informáticos no es un lujo, sino un factor determinante para el éxito” (OpenWebinars, s/f).
+La aplicación propuesta es un **gestor de hábitos saludables**, su propósito no es la estética, sino la lógica interna: permitir que el usuario registre, organice y evalúe rutinas diarias (ejercicio, alimentación, estudio), como se afirma, “garantizar la calidad y funcionalidad de los programas informáticos no es un lujo, sino un factor determinante para el éxito” (OpenWebinars, s/f).
 
 ## 📌 Exposición del problema
-En la vida cotidiana, muchas personas intentan cambiar hábitos pero fracasan por falta de seguimiento. El problema no es la motivación inicial, sino la ausencia de un mecanismo que **registre y muestre el progreso**. “Es fácil perder de vista las necesidades de los usuarios cuando uno se centra en los aspectos técnicos o estéticos” (The Decision Lab, s/f). La aplicación busca resolver esta brecha: un espacio donde el usuario pueda ver su constancia y recibir retroalimentación mínima pero efectiva.
+En la vida cotidiana, muchas personas intentan cambiar hábitos pero fracasan por falta de seguimiento, por lo que, el problema no es la motivación inicial, sino la ausencia de un mecanismo que **registre y muestre el progreso**, en otras palabras, es fácil perder de vista las necesidades de los usuarios cuando uno se centra en los aspectos técnicos o estéticos (The Decision Lab, s/f) asimismo, la aplicación busca resolver esta brecha: un espacio donde el usuario pueda ver su constancia y recibir retroalimentación mínima pero efectiva.
 
 ## 📌 Plataforma
-La aplicación se desarrollará en **Android**, utilizando **Android Studio** y un backend sencillo con **SQLite** para almacenamiento local. “La fase de análisis de requisitos se define como la etapa inicial del desarrollo de software, donde se recopilan y analizan los requisitos del usuario” (ScienceDirect, s/f). Esto garantiza accesibilidad y rapidez en la implementación.
+La aplicación se desarrollará en **Android**, utilizando **Android Studio** y un backend sencillo con **SQLite** para almacenamiento local, la fase de análisis de requisitos se define como la etapa inicial del desarrollo de software, donde se recopilan y analizan los requisitos del usuario (ScienceDirect, s/f) esto garantiza accesibilidad y rapidez en la implementación.
 
 ## 📌 Interfaz de usuario e interfaz de administrador
 - **Usuario**: podrá registrar hábitos, marcar cumplimiento diario y visualizar reportes simples.  
 - **Administrador (rol técnico)**: tendrá acceso a la base de datos para verificar consistencia y realizar mantenimiento.  
 
-La interfaz será básica, sin énfasis en diseño gráfico, pero funcional y clara. Esto responde a la idea de que las heurísticas de Nielsen funcionan como guía práctica para evitar problemas de usabilidad (The Decision Lab, s/f).
+La interfaz será básica, sin énfasis en diseño gráfico, pero funcional y clara. Esto responde claramente a la idea de que las heurísticas de Nielsen funcionan como guía práctica para evitar problemas de usabilidad (The Decision Lab, s/f).
 
 ## 📌 Funcionalidad
 - Registro de hábitos (ejemplo: “hacer ejercicio 30 min”).  
 - Marcar cumplimiento diario.  
 - Generar reportes semanales (porcentaje de cumplimiento).  
-- Notificaciones simples como recordatorio.  
+- Notificaciones simples como recordatorio.
 
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/25191d9f-7613-49e2-9340-0309af136ab3" />
 Este enfoque sigue la idea de que la tecnología es solo una herramienta cuyo objetivo es resolver problemas reales (Onabitz, 2025).
 
-## 📌 Diseño (wireframes o esquemas)
+## 📌 Diseño
 - Pantalla inicial: lista de hábitos.  
 - Botón “+” para agregar hábito.  
-- Pantalla de reporte: gráfico sencillo (barra o porcentaje).  
-*(Los esquemas pueden hacerse en papel o con herramientas simples como Draw.io o Figma, sin necesidad de estética avanzada).*
+- Pantalla de reporte: gráfico sencillo (barra o porcentaje).
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e5dee204-2c1b-413d-9a0b-9f2a8f5d3b86" />
 
 ## 📚 Referencias (APA)
 
