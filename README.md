@@ -1,6 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/526f7992-9a99-4d65-bbe4-11edd34bebe1" /># MiApp
 Repositorio para el borrador del proyecto de Desarrollo de Apps Móviles
-
+APP: TRACKFIT
 
 # Proyecto de Desarrollo de Apps Móviles
 
